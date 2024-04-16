@@ -68,6 +68,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or support, please contact [mayur.kumbar@example.com].
+For any inquiries or support, please contact [mayurkumbhar738@gmail.com].
 
 
